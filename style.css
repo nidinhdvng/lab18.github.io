@@ -1,0 +1,26 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(img/Untitled-1.jpg);
+  background-position: center;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(img/Opera-Browser-Wallpaper.jpg);
+  background-position: top;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(img/2041932.jpg);
+  background-position: center;
+}
+
+.carousel-item {
+  height: 90vh;
+}
+
+.backtotop {
+  justify-self: end;
+}
